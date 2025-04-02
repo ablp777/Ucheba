@@ -1,0 +1,7 @@
+﻿print("Укажите тип вашего питомца:")
+pet_type =input()
+print("Укажите имя вашего питомца:")
+pet_name = input()
+print("Укажите возраст вашего питомца:")
+pet_age=input()
+print("Это ",pet_type," по кличке: \"",pet_name, "\".Возраст: ",pet_age," ." , sep='')
